@@ -24,7 +24,7 @@ sidebar_position: this is the position of the doc in the sidebar
 and then you can start writing your doc. if you want to add images to your doc, you can add them to the `docs/img` folder and then use them in your doc like this:
 
 ```Text
-![image title](./img/image_name.png)
+![image title](/img/commission_img/image_name.png)
 ```
 
 inside the `![]` you can add the title of the image, and inside the () you can add the path of the image.
