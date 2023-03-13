@@ -10,13 +10,13 @@ Design Commission is a commission that will be taken by the design team after th
 
 go to the configuration menu, and click on the commission.
 
-![design configuration](./img/sales_configuration.png)
+![design configuration](../assets/commission_img/sales_configuration.png)
 
 then create a Design Commission by clicking on the create button, and fill the fields.
 
 ### create design commission
 
-![design commission](./img/design_commission_category.png)
+![design commission](../assets/commission_img/design_commission_category.png)
 
 feel the fields as the following:
 
