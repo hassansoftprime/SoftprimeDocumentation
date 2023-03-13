@@ -34,4 +34,6 @@ we will explain the commission types in details in the next sections. but first 
 
 to configure that go to the Employee Module, and click on the employee, and check the **Commission Applicable?** make sure it is checked.
 
-![Employee Configuration](./img/employee_configuration.png)
+<!-- <img src={require("static/img/Commission_img/base.png")} width="400"/> -->
+
+![Introduction](../assets/commission_img/employee_configuration.png)

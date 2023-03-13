@@ -10,7 +10,7 @@ Workshop Commission is a commission that will be taken by the workshop team afte
 
 go to the configuration menu, and click on the commission.
 
-![workshop configuration](./img/sales_configuration.png)
+![workshop configuration](../assets/commission_img/sales_configuration.png)
 
 then create a Workshop Commission by clicking on the create button, and fill the fields.
 
@@ -32,7 +32,7 @@ Create workshop comission responsibility matrix with the following fields:
 - **Supervisor Commission Percent** : the supervisor will take the commission based on the percentage of the workshop team.
 - **Assistant Commission Percent** : the assistant will take the commission based on the percentage of the workshop team.
 
-![workshop commission](./img/Workshop_Responsibility_matrix.png)
+![workshop commission](../assets/commission_img/Workshop_Responsibility_matrix.png)
 
 ```Note
 -- add the officer, and supervisors in the commission Employee.
